@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { Image } from 'primevue'
 import Award1 from '/home/award-1.svg'
-import Award2 from '/home/award-2.svg'
+import Award2 from '/home/award-2.jpg'
 import Award3 from '/home/award-3.jpg'
 import HeroImage from '/hero-images/home.jpg'
 import Project1 from '/projects/lavish-estates/hero.jpg'
